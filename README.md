@@ -70,6 +70,8 @@ module.exports = [{
 
 ### 推送
 修改serverChan.js 或者添加环境变量SENDKEY
+1
+
 
 执行命令
 ``` bash
